@@ -1,9 +1,12 @@
 ![I am Web Designer](https://media.licdn.com/dms/image/C4E16AQEfdk9OMWl7og/profile-displaybackgroundimage-shrink_350_1400/0/1612157476328?e=1681948800&v=beta&t=_uibDiioR1kuLdDJXBxlPwx9a__GaTijtdhKzV9q88o)
 
+![Profile views](https://gpvc.arturio.dev/HM-Webcoding)  
+
 ### Hi there 👋, my name is Hamidur Rashid
 #### I am Web Designer
 
- I am a passionate designer from Bangladesh. I love clean and simple designs. I am strongly experienced in HTML, CSS3, SCSS, Bootstrap and jQuery Plugin. Also, I am experienced with WordPress Theme customizing. I'm a full-time freelancer who's focused on delivering high-quality work on a timely manner. Believe in work quality! Your satisfaction is my motivation!
+ I am a passionate designer from Bangladesh. I love clean and simple designs. I am strongly experienced in HTML, CSS3, SCSS, Bootstrap. Also, I am experienced with WordPress Theme customizing. I'm a full-time freelancer who's focused on delivering high-quality work on a timely manner. Believe in work quality! Your satisfaction is my motivation!
+Currently i am learning MERN Stack Web Development 
 
 Skills: REACT / JS / HTML / CSS
 
@@ -26,4 +29,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HM-Webcoding)  
 
-![Profile views](https://gpvc.arturio.dev/HM-Webcoding)  
+
