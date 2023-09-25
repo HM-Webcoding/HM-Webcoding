@@ -2,18 +2,16 @@
 
 ![Profile views](https://gpvc.arturio.dev/HM-Webcoding)  
 
-### Hi there 👋, my name is Hamidur Rashid
-#### I am Web Designer
+### Hi there 👋, This is Hamidur Rashid
+#### I am MERN Stack Developer
 
- I am a passionate designer from Bangladesh. I love clean and simple designs. I am strongly experienced in HTML, CSS3, SCSS, Bootstrap. Also, I am experienced with WordPress Theme customizing. I'm a full-time freelancer who's focused on delivering high-quality work on a timely manner. Believe in work quality! Your satisfaction is my motivation!
-Currently i am learning MERN Stack Web Development 
+I am a passionate programmer from Bangladesh. I have 2 years of experience in Javascript | React | NextJs | Node JS | Express JS | MongoDB. Believe in work quality! Clint's satisfaction is my motivation!
 
-Skills: REACT / JS / HTML / CSS
+Skills: Javascript / React / NextJs / Node JS / Express JS / MongoDB 
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning MERN Stack/ Full Stack Development 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Design 
+- 🔭 I’m currently working on a Chatting application project (using React and Fairbase)
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about MERN Stack  
 - 📫 How to reach me: hamidmonju01@gmail.com 
 
 
