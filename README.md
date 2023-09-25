@@ -23,7 +23,7 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HM-Webcoding&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HM-Webcoding)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HM-Webcoding&bg_color=0b293c&color=ff33f1&line=1c40d4&point=03b538&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/HM-Webcoding)  
 
