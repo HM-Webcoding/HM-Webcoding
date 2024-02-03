@@ -1,4 +1,4 @@
-![I am Web Designer](https://i.ibb.co/MNv8QQ0/Screenshot-1.png)
+![I am Web Designer](https://i.ibb.co/jyMkqfR/github-header-image-1.png)
 
 ![Profile views](https://gpvc.arturio.dev/HM-Webcoding)  
 
