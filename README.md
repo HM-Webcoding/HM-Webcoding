@@ -8,9 +8,9 @@
 ### Hi there 👋, This is Hamidur Rashid
 #### I am a MERN Stack Developer
 
-I am a passionate programmer from Bangladesh. I have 2 years of experience in Javascript | React | NextJs | Node JS | Express JS | MongoDB. Believe in work quality! Clint's satisfaction is my motivation!
+I am a passionate Web Application Designer. I specialized in converting the Figma design to a responsive web application or website template with pixel-perfect & color accuracy. I have over two years of experience in web application design. I aim to elevate my digital experiences to new heights, ensuring the seamless integration of design and functionality.
 
-🔭 I’m currently working on a Chatting application project (using React and Fairbase)<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about MERN Stack<br>📫 How to reach me: hamidmonju01@gmail.com
+🔭 I’m currently working on a Chatting application project. This is a web-based chatting application. Major features include - Authentication, Making New Friends, Creating Groups and Chat, Notifications, and Profile Settings. In this web application, I used Firebase as a Google-backed technology. “not responsive yet”  <br> <br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about MERN Stack<br>📫 How to reach me: hamidmonju01@gmail.com
 
 
 # 💻 Tech Stack:
